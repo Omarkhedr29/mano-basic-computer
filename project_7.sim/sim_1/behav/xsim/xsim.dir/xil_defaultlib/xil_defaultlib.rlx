@@ -1,0 +1,17 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+C:/Users/user/project_7/project_7.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+C:/Users/user/project_7/project_7.srcs/sim_1/new/ALLLU_tb.v,1715096865,verilog,,,,alu_tb,,,,,,,,
+C:/Users/user/project_7/project_7.srcs/sim_1/new/DFF_tb.v,1715027201,verilog,,,,DFF_tb,,,,,,,,
+C:/Users/user/project_7/project_7.srcs/sim_1/new/decoder_3x8_tb.v,1715019054,verilog,,,,decoder_3x8_tb,,,,,,,,
+C:/Users/user/project_7/project_7.srcs/sim_1/new/memory_tb.v,1715026448,verilog,,,,memory_tb,,,,,,,,
+C:/Users/user/project_7/project_7.srcs/sim_1/new/sequential_counter_tb.v,1715026682,verilog,,,,sequential_counter_tb,,,,,,,,
+C:/Users/user/project_7/project_7.srcs/sim_1/new/signals_tb.v,1715092143,verilog,,,,signals_tb,,,,,,,,
+C:/Users/user/project_7/project_7.srcs/sources_1/new/ALLLU.v,1715096869,verilog,,C:/Users/user/project_7/project_7.srcs/sim_1/new/ALLLU_tb.v,,ALLLU,,,,,,,,
+C:/Users/user/project_7/project_7.srcs/sources_1/new/DFF.v,1715027121,verilog,,C:/Users/user/project_7/project_7.srcs/sim_1/new/DFF_tb.v,,DFF,,,,,,,,
+C:/Users/user/project_7/project_7.srcs/sources_1/new/decoder_3x8.v,1715026951,verilog,,C:/Users/user/project_7/project_7.srcs/sources_1/new/sequential_counter.v,,decoder_3x8,,,,,,,,
+C:/Users/user/project_7/project_7.srcs/sources_1/new/memory.v,1715024015,verilog,,C:/Users/user/project_7/project_7.srcs/sim_1/new/memory_tb.v,,memory,,,,,,,,
+C:/Users/user/project_7/project_7.srcs/sources_1/new/sequential_counter.v,1715026635,verilog,,C:/Users/user/project_7/project_7.srcs/sources_1/new/signals.v,,sequential_counter,,,,,,,,
+C:/Users/user/project_7/project_7.srcs/sources_1/new/signals.v,1715092246,verilog,,C:/Users/user/project_7/project_7.srcs/sim_1/new/signals_tb.v,,signals,,,,,,,,
