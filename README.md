@@ -1,1 +1,0 @@
-# mano-basic-computer

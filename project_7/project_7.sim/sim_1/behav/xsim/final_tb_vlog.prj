@@ -1,0 +1,19 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../project_7.srcs/sources_1/new/ALLLU.v" \
+"../../../../project_7.srcs/sources_1/new/DFF.v" \
+"../../../../project_7.srcs/sources_1/new/control_unit.v" \
+"../../../../project_7.srcs/sources_1/new/datapath_with_control_unit.v" \
+"../../../../project_7.srcs/sources_1/new/decoder_3x8.v" \
+"../../../../project_7.srcs/sources_1/new/memory.v" \
+"../../../../project_7.srcs/sources_1/new/opcode_decoder.v" \
+"../../../../project_7.srcs/sources_1/new/register.v" \
+"../../../../project_7.srcs/sources_1/new/sequential_counter.v" \
+"../../../../project_7.srcs/sources_1/new/signals.v" \
+"../../../../project_7.srcs/sim_1/new/final_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
